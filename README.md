@@ -1,4 +1,11 @@
-# For rk3588 docker android gpu & mpp 硬编解码 
+# For rk3588 docker android gpu & vpu 硬编解码
+## 效果展示
+2025-3-26: 升级适配6.1.84内核
+
+![示例](redroid-info.gif)
+![示例](redroid-tiktok.gif)
+![示例](redroid-game.gif)
+
 ## 创建项目&拉取代码
 
 ```bash
