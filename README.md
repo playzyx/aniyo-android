@@ -1,5 +1,7 @@
 # For rk3588 docker android gpu & vpu 硬编解码
 ## 效果展示
+2025-4-7: support frida-gadget so注入
+2025-4-7: 内核support ebpf 功能
 2025-3-26: 升级适配6.1.84内核
 
 ![示例](redroid-info.gif)
